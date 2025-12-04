@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Humayun Ahmed",
+    "description": "Bangladeshi novelist, screenwriter, and filmmaker.",
+    "createdAt": "2025-12-04T10:06:03.201Z"
+  },
+  {
+    "id": 2,
+    "name": "Taslima Nasrin",
+    "description": "Bangladeshi-Swedish writer and feminist.",
+    "createdAt": "2025-12-04T10:06:03.202Z"
+  },
+  {
+    "id": 3,
+    "name": "Kazi Nazrul Islam",
+    "description": "National poet of Bangladesh, writer, musician.",
+    "createdAt": "2025-12-04T10:06:03.202Z"
+  },
+  {
+    "id": 4,
+    "name": "Mark Twain",
+    "description": "American novelist and humorist, author of classic literature.",
+    "createdAt": "2025-12-04T10:06:03.202Z"
+  },
+  {
+    "id": 5,
+    "name": "Ernest Hemingway",
+    "description": "American novelist and Nobel Prize–winning writer.",
+    "createdAt": "2025-12-04T10:06:03.202Z"
+  }
+]

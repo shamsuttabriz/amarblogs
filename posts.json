@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Sample Post 1",
+    "description": "This is a detailed description for Sample Post 1.",
+    "categoryId": 1,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 2,
+    "title": "Sample Post 2",
+    "description": "This is a detailed description for Sample Post 2.",
+    "categoryId": 2,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 3,
+    "title": "Sample Post 3",
+    "description": "This is a detailed description for Sample Post 3.",
+    "categoryId": 2,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 4,
+    "title": "Sample Post 4",
+    "description": "This is a detailed description for Sample Post 4.",
+    "categoryId": 3,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 5,
+    "title": "Sample Post 5",
+    "description": "This is a detailed description for Sample Post 5.",
+    "categoryId": 3,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 6,
+    "title": "Sample Post 6",
+    "description": "This is a detailed description for Sample Post 6.",
+    "categoryId": 5,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 7,
+    "title": "Sample Post 7",
+    "description": "This is a detailed description for Sample Post 7.",
+    "categoryId": 1,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 8,
+    "title": "Sample Post 8",
+    "description": "This is a detailed description for Sample Post 8.",
+    "categoryId": 3,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 9,
+    "title": "Sample Post 9",
+    "description": "This is a detailed description for Sample Post 9.",
+    "categoryId": 2,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  },
+  {
+    "id": 10,
+    "title": "Sample Post 10",
+    "description": "This is a detailed description for Sample Post 10.",
+    "categoryId": 1,
+    "createdAt": "2025-12-04T07:00:08.228Z"
+  }
+]
